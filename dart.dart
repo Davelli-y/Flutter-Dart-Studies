@@ -1,4 +1,4 @@
-
+// data: 01-07-2025
 import 'dart:convert';
 
 var name = 'Guilherme'; // se não declarar tipo de variavel, o dart tenta adivinhar qual. Se passamos o mouse em cima, vemos escrito dynamic.
